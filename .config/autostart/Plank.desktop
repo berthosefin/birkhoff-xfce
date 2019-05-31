@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=dock
+Encoding=UTF-8
+Exec=plank
+Hidden=false
+Name=Plank
+OnlyShowIn=XFCE;KDE;
+StartupNotify=false
+Terminal=false
+Type=Application
+Version=0.9.4
+
