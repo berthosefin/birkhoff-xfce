@@ -1,8 +1,8 @@
-delay=1
-region=3
-action=1
-show_mouse=0
+delay=0
+region=1
+show_mouse=1
 screenshot_dir=file:/home/birkhoff/Bureau
-app=ristretto
+app=viewnior
 last_user=
+action=1
 

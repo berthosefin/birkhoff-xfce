@@ -1,0 +1,25 @@
+alias update='sudo apt update'
+alias upgrade='sudo apt upgrade'
+alias full-upgrade='sudo apt full-upgrade'
+alias dist-upgrade='sudo apt dist-upgrade'
+alias search='apt search'
+alias show='apt show'
+alias list='apt list'
+alias policy='apt policy'
+alias edit-sources='sudo vim /etc/apt/sources.list'
+alias install='sudo apt install'
+alias reinstall='sudo apt reinstall'
+alias remove='sudo apt remove'
+alias autoremove='sudo apt autoremove'
+alias purge='sudo apt purge'
+
+alias cdrom-add='sudo apt-cdrom add'
+
+alias Binary-1='sudo mount /home/birkhoff/Birkhoff/OS/debian-10.0.0-amd64-DVD-1.iso /media/cdrom0'
+alias Binary-2='sudo mount /home/birkhoff/Birkhoff/OS/debian-10.0.0-amd64-DVD-2.iso /media/cdrom0'
+alias Binary-3='sudo mount /home/birkhoff/Birkhoff/OS/debian-10.0.0-amd64-DVD-3.iso /media/cdrom0'
+
+alias cdrom-umount='sudo umount /media/cdrom0'
+
+alias off='/sbin/poweroff'
+alias reboot='/sbin/reboot'

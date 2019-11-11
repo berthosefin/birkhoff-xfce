@@ -1,0 +1,42 @@
+00:00:00.040398 main     VirtualBox XPCOM Server 6.0.14 r133895 linux.amd64 (Oct 10 2019 21:02:02) release log
+00:00:00.040404 main     Log opened 2019-11-10T15:36:23.373781000Z
+00:00:00.040405 main     Build Type: release
+00:00:00.040414 main     OS Product: Linux
+00:00:00.040417 main     OS Release: 4.19.0-6-amd64
+00:00:00.040420 main     OS Version: #1 SMP Debian 4.19.67-2+deb10u1 (2019-09-20)
+00:00:00.040467 main     DMI Product Name: HP G62 Notebook PC
+00:00:00.040492 main     DMI Product Version: 049B100002202710000020000
+00:00:00.040566 main     Host RAM: 3746MB (3.6GB) total, 2874MB (2.8GB) available
+00:00:00.040570 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.040571 main     Process ID: 1630
+00:00:00.040572 main     Package type: LINUX_64BITS__UBUNTU_18_04
+00:00:00.042687 main     IPC socket path: /tmp/.vbox-birkhoff-ipc/ipcd
+00:00:00.168644 nspr-2   VirtualBox: object creation starts
+00:00:00.169404 nspr-2   Home directory: '/home/birkhoff/.config/VirtualBox'
+00:00:00.180121 nspr-2   Loading settings file "/home/birkhoff/.config/VirtualBox/VirtualBox.xml" with version "1.14-linux"
+00:00:00.211301 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.247418 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.249414 nspr-2   HostDnsMonitor::updateInfo
+00:00:00.249441 nspr-2   HostDnsMonitor: unchanged
+00:00:00.401605 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.503963 nspr-2   Loading settings file "/home/birkhoff/VirtualBox VMs/Debian/Debian.vbox" with version "1.16-linux"
+00:00:00.514817 nspr-2   Loading settings file "/home/birkhoff/VirtualBox VMs/Windows 7/Windows 7.vbox" with version "1.15-linux"
+00:00:00.528166 nspr-2   Loading settings file "/home/birkhoff/VirtualBox VMs/Metasploitable/Metasploitable.vbox" with version "1.16-linux"
+00:00:00.536066 nspr-2   Loading settings file "/home/birkhoff/VirtualBox VMs/Kali/Kali.vbox" with version "1.16-linux"
+00:00:00.570722 nspr-2   OCI: Local config file '/home/birkhoff/.config/VirtualBox/oci_config' does not exist
+00:00:00.570768 nspr-2   OCI: Original config file '/home/birkhoff/.oci/config' does not exist
+00:00:00.570781 nspr-2   OCI: Reading profiles finished with status NS_OK
+00:00:00.570798 nspr-2   ExtPack: Created cloud provider 'OCI' (hrc=NS_OK)
+00:00:00.570828 nspr-2   VirtualBox: object created
+00:00:10.260264 nspr-6   Saving settings file "/home/birkhoff/.config/VirtualBox/VirtualBox.xml" with version "1.14-linux"
+00:00:10.343806 nspr-5   Saving settings file "/home/birkhoff/.config/VirtualBox/VirtualBox.xml" with version "1.14-linux"
+00:00:10.413507 nspr-6   Saving settings file "/home/birkhoff/.config/VirtualBox/VirtualBox.xml" with version "1.14-linux"
+00:00:10.461472 nspr-3   Saving settings file "/home/birkhoff/.config/VirtualBox/VirtualBox.xml" with version "1.14-linux"
+00:00:16.031891 main     VirtualBox: object deletion starts
+00:00:16.031986 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/birkhoff/Birkhoff/OS/Debian.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:16.032256 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/birkhoff/VirtualBox VMs/Windows 7/Windows 7.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:16.032457 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/birkhoff/Birkhoff/OS/Metasploitable.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:16.032635 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/birkhoff/VirtualBox VMs/Kali/Kali.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:16.075408 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:21.046926 main     {00007ff8f8019f20} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:21.047535 main     VirtualBox: object deleted
