@@ -1,6 +1,22 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/birkhoff/Bureau/Kali.desktop]
+row=1
+col=15
+
+[/home/birkhoff/Bureau/Windows 7.desktop]
+row=1
+col=17
+
+[/home/birkhoff/Bureau/Debian.desktop]
+row=1
+col=14
+
+[/home/birkhoff/Bureau/Metasploitable.desktop]
+row=1
+col=16
+
 [Corbeille]
 row=0
 col=0
