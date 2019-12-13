@@ -10,10 +10,10 @@
     <tag>Arrondi</tag>
   </resource>
 
-  <resource identifier="gimp-brush-clipboard-image" checksum="02a8b457ac32c1eb044be95177a94835">
+  <resource identifier="gimp-brush-clipboard-image" checksum="157dcef48665ab465439cfaf10d6feeb">
   </resource>
 
-  <resource identifier="gimp-brush-clipboard-mask" checksum="113c9dcea188749850ff118a38edf420">
+  <resource identifier="gimp-brush-clipboard-mask" checksum="157dcef48665ab465439cfaf10d6feeb">
   </resource>
 
   <resource identifier="${gimp_data_dir}/brushes/Basic/1-pixel.vbr" checksum="b22c1fec1056f979b1d17e4cc80e9112">
@@ -241,7 +241,7 @@
   <resource identifier="${gimp_data_dir}/dynamics/Velocity-Tapering.gdyn" checksum="(null)">
   </resource>
 
-  <resource identifier="gimp-pattern-clipboard-image" checksum="dc9aeb9889cbbb58ac308292966a7202">
+  <resource identifier="gimp-pattern-clipboard-image" checksum="eff9598f9f61c1dc78d842f1798c2ab8">
   </resource>
 
   <resource identifier="${gimp_data_dir}/patterns/Legacy/3dgreen.pat" checksum="00052731f14a5bc614daece969b368bc">
@@ -646,7 +646,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="4f5b4478ce9609a4e673012028b4b377">
+  <resource identifier="gimp-palette-color-history" checksum="32591156275c42e07ed718a8907fa21d">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="c12f8990c3e2796c7be08198d3342801">
@@ -782,6 +782,9 @@
   </resource>
 
   <resource identifier="aClock Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="A DAY WITHOUT SUN" checksum="(null)">
   </resource>
 
   <resource identifier="ADELE Light" checksum="(null)">
@@ -1351,10 +1354,28 @@
   <resource identifier="Fantasque Sans Mono Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="feather" checksum="(null)">
+  </resource>
+
   <resource identifier="Feena Casual" checksum="(null)">
   </resource>
 
   <resource identifier="FFF Tusj Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Fira Code" checksum="(null)">
+  </resource>
+
+  <resource identifier="Fira Code Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Fira Code Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Fira Code Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Fira Code weight=453" checksum="(null)">
   </resource>
 
   <resource identifier="Fira Mono for Powerline" checksum="(null)">
@@ -1523,6 +1544,9 @@
   </resource>
 
   <resource identifier="Hack Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font" checksum="(null)">
   </resource>
 
   <resource identifier="HaloHandletter" checksum="(null)">
@@ -2119,6 +2143,9 @@
   <resource identifier="Linux Libertine O Semi-Bold Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="LiterationMono Nerd Font" checksum="(null)">
+  </resource>
+
   <resource identifier="Material" checksum="(null)">
   </resource>
 
@@ -2411,9 +2438,6 @@
   </resource>
 
   <resource identifier="Nimbus Sans L Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Color Emoji" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Kufi Arabic" checksum="(null)">
@@ -3193,13 +3217,22 @@
   <resource identifier="Open Sans Bold Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Open Sans Condensed, Bold Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Open Sans Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Open Sans Light" checksum="(null)">
   </resource>
 
+  <resource identifier="Open Sans Light Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Open Sans Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Light Italic Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Open Sans Semi-Bold" checksum="(null)">
@@ -3268,6 +3301,9 @@
   <resource identifier="Pompadour Heavy" checksum="(null)">
   </resource>
 
+  <resource identifier="Poppins" checksum="(null)">
+  </resource>
+
   <resource identifier="Porto 400," checksum="(null)">
   </resource>
 
@@ -3281,6 +3317,42 @@
   </resource>
 
   <resource identifier="Pricedown" checksum="(null)">
+  </resource>
+
+  <resource identifier="Product Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Product Sans Black, Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Product Sans Black, Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Product Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Product Sans Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Product Sans Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Product Sans Light, Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Product Sans Light, Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Product Sans Medium, Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Product Sans Medium, Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Product Sans Thin, weight=255" checksum="(null)">
+  </resource>
+
+  <resource identifier="Product Sans Thin, weight=255 Italic" checksum="(null)">
   </resource>
 
   <resource identifier="ProFont for Powerline" checksum="(null)">
@@ -3368,6 +3440,9 @@
   </resource>
 
   <resource identifier="RGMB 6044 Str" checksum="(null)">
+  </resource>
+
+  <resource identifier="rissole" checksum="(null)">
   </resource>
 
   <resource identifier="Roboto" checksum="(null)">
@@ -4046,6 +4121,51 @@
   </resource>
 
   <resource identifier="Vladimir Script" checksum="(null)">
+  </resource>
+
+  <resource identifier="VL Gothic" checksum="(null)">
+  </resource>
+
+  <resource identifier="VL PGothic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Vollkorn" checksum="(null)">
+  </resource>
+
+  <resource identifier="Vollkorn Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Vollkorn Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Vollkorn Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Vollkorn Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Vollkorn Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Vollkorn Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Vollkorn Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Vollkorn Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Vollkorn Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Vollkorn Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Vollkorn Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="waffle" checksum="(null)">
   </resource>
 
   <resource identifier="wasy10" checksum="(null)">
