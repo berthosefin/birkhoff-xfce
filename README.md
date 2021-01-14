@@ -35,11 +35,11 @@
 ## Notes
 - If you want to use this configuration, inspect the code before use.
 - Install git
-- Clone this repo `git clone --depth=1 https://github.com/berthosefin/birkhoff-xfce ~/.birkhoff-xfce`
-- Deploy the dotfiles `cp -a ~/.birkhoff-xfce/. ~`
+- Clone this repo `git clone --depth=1 https://github.com/berthosefin/xfce ~/.xfce`
+- Deploy the dotfiles `cp -a ~/.xfce/. ~`
 - Change the default CLI Shell `chsh $(whoami) -s /bin/zsh`
 - If you find "birkhoff" in the configuration file, replace it with your own username.
-- Edit some system configuration, example in ~/.birkhoff-xfce/.system
+- Edit some system configuration, example in ~/.xfce/.system
 - Reboot
 - Fix some errors
 - Start working
